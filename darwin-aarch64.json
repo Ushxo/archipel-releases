@@ -1,11 +1,11 @@
 {
-  "version": "0.4.6",
-  "notes": "Relais : chaque mission terminée est transmise au Naufragé, qui pilote la suite (bouton « Envoyer au Phare »). Application en anglais et en français (Réglages). Gros messages : champ extensible, textes repliés, panneau d'agent à onglets. / Handoff to the Castaway, English and French, better handling of long prompts.",
-  "pub_date": "2026-11-18T23:27:24.221Z",
+  "version": "0.4.7",
+  "notes": "Reprise automatique : un délai dépassé reprend seul dans la même session avec plus de temps, une erreur de réseau repart après une attente, puis le Phare décide (relancer, découper, abandonner). Réglage « Délais dépassés et erreurs ». / Automatic recovery from timeouts and errors, then the Lighthouse decides.",
+  "pub_date": "2026-11-18T23:59:42.747Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMnVQdGkva3FSd3U2Vy95V0thdWMzUEE3NUtGZG8vQjIvVkJKSS9nSEwxWUIvKzgzYzhXVzY1eHBSbHczT2puRGp5OFdNdTJNTno2UUxxVk92SmhKemIrTkQ4M0cwYXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ0NDM5CWZpbGU6QXJjaGlwZWwuYXBwLnRhci5negl2ZXJzaW9uOjAuNC42CkZyNm5DZk5UcnkxV1A3UHByU201R3pEcmRXRWt6UmdJcHcySnRuT3NrRnluak5SeTBSNTZDeVhmZFBHQVlQWFdtQXE1dzcxeXBJTFROU0dvR1RKTURRPT0K",
-      "url": "https://github.com/Ushxo/archipel-releases/releases/download/v0.4.6-darwin/Archipel.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMnVQdGkva3FSd2xFazh1MzJubW5kN3FGUTNzekVCOFExbldGTGo5NXVEKzN1Q2Z6ZHFTZjBDQWJtRTUzcU9VdWR0RjF0YWYxMFBleU9UaVNFQnh0TEp5ckx3TG5FWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ2Mzc2CWZpbGU6QXJjaGlwZWwuYXBwLnRhci5negl2ZXJzaW9uOjAuNC43CkJpUnppcC9RMFEvT21scllNRjdPUXloSkNJMzBuakJ2MDJ4VmZBYnFJVnROZSsxSzE2K1dXbGNTc0FiSzVjM3BBYllnN3hvVHZkbENWTTgyOWRpZ0JRPT0K",
+      "url": "https://github.com/Ushxo/archipel-releases/releases/download/v0.4.7-darwin/Archipel.app.tar.gz"
     }
   }
 }

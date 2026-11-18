@@ -1,0 +1,11 @@
+{
+  "version": "0.4.5",
+  "notes": "Le Naufragé perd de l'argent quand un projet ne rapporte pas à temps, plus sur le calcul des agents. Un bateau disparaît en arrivant. Télécommande pour iPhone.",
+  "pub_date": "2026-11-18T20:57:01.301Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMnVQdGkva3FSd2tHQlNUbXVDS2FkR2hnRFJmTlpvY2JPVVNJQUhvbzYrR2I4NHVkVWlpSnVNR0djWWNXUi9TVGpTRWthZkw0MmZ4VWtkc2ZTbDE5SWF6RC8wWk5Bb3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM1NDE1CWZpbGU6QXJjaGlwZWwuYXBwLnRhci5negl2ZXJzaW9uOjAuNC41CklpdlJjMFJCZ095K0xjdDF4S3dsTWFDanNsUXF5OGx0TEdBR3dSMDQ4TlRtbjZ2b0NRNDNveHVYTFpyZjRaK1UzMGNwcDcwaFJiMG5Ra1hGY2sxNUJnPT0K",
+      "url": "https://github.com/Ushxo/archipel-releases/releases/download/v0.4.5-darwin/Archipel.app.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.4.0",
+  "notes": "Mise à jour automatique, écriteaux de la carte lisibles, modèle de départ par île, interface plus lisible.",
+  "pub_date": "2026-11-18T03:04:10.200Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjR0UlY4ZFFPL0c4emNaMzlzYSsyQlZjNDNzYVZpSmNxdXFzS3JoOGdZbmF2dTBsZ2x3M0ZJa3BIZnF0OE1lNEVDeldsbzJPWS9FdkVZTTNOakhPU2VSUzNhM2M5elF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxMDQ2CWZpbGU6QXJjaGlwZWxfMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCkR1VmM5Njl1RE1TcnVyRDNIUnRyeGdVRFY4aWtja3UwenZ2S0E1MGkwS2lVdXZvcmRNMCtNNjlweG1HWW1VR3dKcnhPRlY5U214Y3JmOGZNUTdoZkRBPT0K",
+      "url": "https://github.com/Ushxo/archipel-releases/releases/download/v0.4.0-windows/Archipel_0.4.0_x64-setup.exe"
+    }
+  }
+}

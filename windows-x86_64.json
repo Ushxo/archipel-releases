@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "L'installateur arrête la passerelle avant de remplacer ses fichiers : plus d'erreur « Error opening file for writing » pendant une mise à jour.",
-  "pub_date": "2026-11-18T03:32:02.169Z",
+  "version": "0.4.3",
+  "notes": "Animations selon l'activité : les personnages sortent de leur bâtiment quand l'agent travaille, un chantier grandit sur l'île du projet au fil de la mission, et des bateaux circulent entre les îles à chaque échange.",
+  "pub_date": "2026-11-18T07:46:21.346Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjR0UlY4ZFFPL0tkZjdKRncyQ2JKNFNYQVRJbFFpY3QwMmk3SFpWMVpHcjVjZVVIRlFPcEhzbjg2LzZHd3VMN1lrTVhHV0dWUm9oQ1pUbmcyTGd2WTdkNStLcFlWMndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcyNzE4CWZpbGU6QXJjaGlwZWxfMC40LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4yCklXSXAza2hRM3FJWVAxbENQOStIa2QxNGdkYy9xMDZiVUNiTWJ5NXVGZkVJYlZsRVNISHltb25DNDZDcmVmOFJDRTVpd29sTlBRQzloTUFRM2gzdUJBPT0K",
-      "url": "https://github.com/Ushxo/archipel-releases/releases/download/v0.4.2-windows/Archipel_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjR0UlY4ZFFPL0tTUnZoK0NMdEJsVkxwV3JGL1ZUbXA2UFFQd3hqLzNFSE52cXFFWHVCUlErakFGRDAxQlVRbmNsZzZxOGJ0VXhBRTYzZCtpNWJZM3lua3N6TGtPSFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg3OTc3CWZpbGU6QXJjaGlwZWxfMC40LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4zCklrSElGQWlDaGtSWDNLdldKRkQ0RWhDMWhFVEdJWHpZbDZIeUw0YU9zRmxnTlI1QzBYS0RzMnFpTWRmalBZeGo5Qy9wQTNwU0h1L1RzcENpZ0JHbUFBPT0K",
+      "url": "https://github.com/Ushxo/archipel-releases/releases/download/v0.4.3-windows/Archipel_0.4.3_x64-setup.exe"
     }
   }
 }
